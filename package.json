@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@vk-io/hear": "^1.1.1",
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^3.1.4",
+    "path": "^0.12.7",
+    "vk-io": "^4.9.1"
+  }
+}
